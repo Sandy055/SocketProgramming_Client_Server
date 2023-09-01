@@ -8,7 +8,6 @@ using System.Net.Sockets;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-//using condoms and put shot
 
 namespace SocketProgramming_Client_Server
 {
