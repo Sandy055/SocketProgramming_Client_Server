@@ -15,6 +15,7 @@ namespace SocketProgramming_Client_Server
         public Form1()
         {
             InitializeComponent();
+            //Hi da funda
         }
     }
 }
